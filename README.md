@@ -1,4 +1,4 @@
-### Hi there 👋
+Iam Ahmad Alsabbagh, a Graphic Designer & Web Developer. I enjoy creating beautifully designed, intuitive and functional websites and provide great web experiences. Designing & coding have been my passion since the first day I got a computer. I was involved in everything related to computers and technology.
 
 <!--
 **ahmad-alsabbagh/ahmad-alsabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
