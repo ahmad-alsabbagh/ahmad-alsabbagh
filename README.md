@@ -39,8 +39,8 @@
 
 ## 🔭 What I'm Working On
 
-- 🏗️ Rebuilding my portfolio with **Next.js 14 App Router + TypeScript**
-- 🔐 Documenting my **homelab infrastructure** (Docker, Proxmox, Ansible)
+- 🏗️ Rebuilding projects with **Next.js 14 App Router + TypeScript**
+- 🔐 Documenting  infrastructure** (Docker, Ansible)
 - 🧩 Building a **Chrome Extension** with TypeScript
 - 📚 Deepening skills in **system design** and **distributed systems**
 
